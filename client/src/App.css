@@ -1,0 +1,18 @@
+html {
+  font-family: "Courier New", Courier, monospace;
+  font-size: small;
+  background-color: rgb(230, 230, 230);
+}
+
+.componentTitle {
+  font-size: xx-large;
+  font-weight: 700;
+  padding: 10px 0px 25px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: large;
+}
