@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boulder-tracker-v1/static/css/main.5b8bf32e.css",
+    "main.js": "/boulder-tracker-v1/static/js/main.05cc253c.js",
+    "index.html": "/boulder-tracker-v1/index.html",
+    "main.5b8bf32e.css.map": "/boulder-tracker-v1/static/css/main.5b8bf32e.css.map",
+    "main.05cc253c.js.map": "/boulder-tracker-v1/static/js/main.05cc253c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8bf32e.css",
+    "static/js/main.05cc253c.js"
+  ]
+}
