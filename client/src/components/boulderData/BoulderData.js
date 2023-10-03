@@ -32,13 +32,11 @@ export default function BoulderData() {
     };
 
     const uri = encodeURIComponent(JSON.stringify(params));
-    console.log(uri);
     Axios.get("/boulder?" + uri).then((response) => {
       if (response.status != 200) {
         alert("Failed to get data with " + response.data);
         return;
       }
-      console.log(response.data);
       setChartData(response.data);
     });
   }, []);
